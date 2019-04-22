@@ -29,7 +29,7 @@ Adience 数据集包含26580张图片，总共含有2284类，涉及的年龄范
 ## NLP数据集
 1. VCTK-Corpus数据集(10G)
 VCTK-Corpus数据集可用来训练声纹识别，ASR；数据集中包含说话人（ID、年龄、性别、国家、地区),录音wav文件，说话内容txt文件。  
-[官方下载地址](http://homepages.inf.ed.ac.uk/jyamagis/release/VCTK-Corpus.tar.gz)
+([官方下载地址](http://homepages.inf.ed.ac.uk/jyamagis/release/VCTK-Corpus.tar.gz))  ([下载地址1](https://datashare.is.ed.ac.uk/handle/10283/2651))  ([百度网盘](https://pan.baidu.com/s/13ATxLTeGrdfi6159oOg89w)(ix2j))    
 
 **[http://www.openslr.org/resources.php系列英语数据集 start]**
 1. Yesno  
