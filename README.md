@@ -12,7 +12,11 @@ https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet/RE
 mobilenet v1模型：  
 https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md
 
+预训练模型下载：  
+https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models  
 
+模型tensorflow实现：  
+https://github.com/tensorflow/models/tree/master/research/slim/nets  
 
 # 数据集
 
