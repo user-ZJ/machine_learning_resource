@@ -99,4 +99,7 @@ http://www.voxforge.org/
 
 2. TIMIT数据集  
 TIMIT数据集是来自美国630个人每个人说十个给定的句子，每一个句子都有标记  
-[百度云](https://pan.baidu.com/s/1Mv3dqsGWynidRq3cisY2dQ)(95k2)
+[百度云](https://pan.baidu.com/s/1Mv3dqsGWynidRq3cisY2dQ)(95k2)  
+
+3. voxceleb
+[官方下载地址](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
