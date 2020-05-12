@@ -89,17 +89,28 @@ THCHS-30的文本选取自大容量的新闻，目的是为了扩充863语音库
 13. Primewords Chinese Corpus Set 1(中文)  
 上海Primewords有限公司（www.primewords.cn）发布的中文普通话语料库，包含100小时的语音数据  
 [官方下载地址](http://www.openslr.org/47/)  
-  
+
 **[http://www.openslr.org/resources.php系列英语数据集 end]**  
 
 1. VoxForge  
-该数据集是带口音的语音清洁数据集，对测试模型在不同重音或语调下的鲁棒性非常有用。
-http://www.voxforge.org/    
-[官方下载地址](https://voice.mozilla.org/zh-CN/datasets)    
+  该数据集是带口音的语音清洁数据集，对测试模型在不同重音或语调下的鲁棒性非常有用。
+  http://www.voxforge.org/    
+  [官方下载地址](https://voice.mozilla.org/zh-CN/datasets)    
 
 2. TIMIT数据集  
-TIMIT数据集是来自美国630个人每个人说十个给定的句子，每一个句子都有标记  
-[百度云](https://pan.baidu.com/s/1Mv3dqsGWynidRq3cisY2dQ)(95k2)  
+  TIMIT数据集是来自美国630个人每个人说十个给定的句子，每一个句子都有标记  
+  [百度云](https://pan.baidu.com/s/1Mv3dqsGWynidRq3cisY2dQ)(95k2)  
 
 3. voxceleb
-[官方下载地址](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
+    [官方下载地址](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
+    
+4. CN-Celeb
+
+    包含1,000名中国明星（包括歌星、影星、说唱艺人等）在采访、歌舞及影视作品中的声音片段。这些片段全部由视频网站经过自动化处理程序提取，并通过人工校验得到。每位明星的声音时长约20分钟，整个数据集近300小时。该数据包含了11类实际场景，覆盖了噪音、信道、发音方式等各方面的复杂性，特别适用于研究复杂场景下的说话人识别技术。  
+
+    [资讯](https://mp.weixin.qq.com/s?__biz=MzU4MTA0NDE5NQ==&mid=2247484908&idx=1&sn=741d35cd78cef4abdc30862b14b39ccc&chksm=fd4cd760ca3b5e7662db73e3eba0ac100d8f3a065e030149a3b4d23061d481177c87b688ea5a&mpshare=1&scene=1&srcid=&sharer_sharetime=1574937937399&sharer_shareid=4be01134ded225b7a2f66ecb5d5991d3&key=4af88d8dcfc4a010fc9a448510eecd2ca4dffb1c30ba107f30f70ccee59292b1e5f961034b5cbb6be7579ea44e8b74e6e470cc16606888e7f9c3231fb705392fe783dcdfc7864f8367c31e02133c6717&ascene=1&uin=MTAzNzg3MTgyMg%3D%3D&devicetype=Windows+10&version=6207024c&lang=zh_CN&exportkey=AeZg%2B%2FUXhpg88DM0%2BluzmJg%3D&pass_ticket=ptHC5cvmD6qT2CMYgw1viT29Pu2bF3E8p2arHNIdbiQiE%2FGgpqj7bEBu9Pr4gzOP)  
+
+    [官方下载地址](http://openslr.org/82/)  
+
+    
+
